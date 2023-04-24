@@ -87,3 +87,7 @@ pickle.format_version = 4.0
 datasets.__version__ = 2.5.2  # used only to fetch Wikipedia sentences
 spacy.__version__ = 3.5.0  # used only to fetch Wikipedia sentences
 ```
+
+# Trained Matrices
+
+Some of the trained matrices can be found at [https://huggingface.co/sashay/linear-shortcut](https://huggingface.co/sashay/linear-shortcut).
